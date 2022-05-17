@@ -17,7 +17,7 @@ O programa recebe dois argumentos, com o programa a testar e os casos de teste:
 
 ## Sintaxe de uso:
 
-<pre>teste {ntarefas} {casos.txt}</pre>
+<pre>teste <programa.c> <casos.txt></pre>
 
 
 O projeto foi feito em C.
