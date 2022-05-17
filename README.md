@@ -5,13 +5,14 @@
 
 <p align="center">
 Trabalho em C
+
+Sistemas Operativos    
     
-Programa sobre PID e PPID
 Programa em linguagem C padrão, de nome teste.c, que permita efetuar o teste de um programa.
 O programa recebe dois argumentos, com o programa a testar e os casos de teste:
 </p>
 
-📌 CRUD em C 
+📌 Programa sobre PID e PPID
 ------------------
 O projeto foi feito em C.
 
