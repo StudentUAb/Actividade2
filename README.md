@@ -14,6 +14,12 @@ O programa recebe dois argumentos, com o programa a testar e os casos de teste:
 
 📌 Programa sobre PID e PPID
 ------------------
+
+## Sintaxe de uso:
+
+<pre>teste {ntarefas} {casos.txt}</pre>
+
+
 O projeto foi feito em C.
 
 
