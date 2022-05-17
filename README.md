@@ -26,7 +26,7 @@ O projeto foi feito em C.
 The project was done with C.
 
 
-<img src="menu.png" alt="page-home">
+<img src="print.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
